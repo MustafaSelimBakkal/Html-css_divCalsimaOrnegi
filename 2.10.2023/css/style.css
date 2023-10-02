@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: justify;
+}
+body{
+    background-color: #8080c0;
+}
+h1{
+    text-align: center;
+    margin-bottom:50px;
+    margin-top: 30px;
+}
+
+#satir1{
+    display: flex;
+    
+}
+
+#satir2{
+    display: flex;
+}
+
+#satir1 div{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}
+
+#satir2 div{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}
+
+
+img{
+    display: block;
+    width:300px;
+}
